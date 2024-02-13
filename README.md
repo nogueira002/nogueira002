@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a7a7a8&size=35&center=true&vCenter=true&duration=2500&width=1000&lines=HELLO,+My+name+is+Ricardo+Nogueira;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nogueira002&show_icons=true&count_private=true&hide_border=true&title_color=7889ff&icon_color=7889ff&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogueira002&layout=compact&hide_border=true&title_color=7889ff&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nogueira002&show_icons=true&count_private=true&hide_border=true&title_color=7889ff&icon_color=7889ff&text_color=c9d1d9&bg_color=0d1117" alt="Ricardo Nogueira github stats" /> 
+  <!--<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogueira002&layout=compact&hide_border=true&title_color=7889ff&text_color=ff91a4&bg_color=0d1117" />-->
 </div>
 
 
